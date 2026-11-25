@@ -1,0 +1,38 @@
+[
+  {
+    "file": "Constants.Heroes.csv",
+    "bytes": 39016,
+    "rows": 126,
+    "sha256": "6a660c4951d92fbaffcc60cb7503fe82f4142a0157a369e7a73483bd12475585"
+  },
+  {
+    "file": "dota_adv.csv",
+    "bytes": 53223719,
+    "rows": 767822,
+    "sha256": "00820e6c378c0ec734469685df124c637f6be61ebbd9d96533ed9575b94e37ae"
+  },
+  {
+    "file": "game_chat.csv",
+    "bytes": 9266770,
+    "rows": 700838,
+    "sha256": "3c7b586017ea698a4f2e8fdf120a818b954df0980f37ed1ffa9779243333e050"
+  },
+  {
+    "file": "matches_df_test.csv",
+    "bytes": 2182852,
+    "rows": 59748,
+    "sha256": "ac65a6771a1c5063c19b86463f4aaefbf88d8cf5485ce166c7bb465e0de9c941"
+  },
+  {
+    "file": "matches_df_train.csv",
+    "bytes": 30371440,
+    "rows": 641090,
+    "sha256": "450d522580c1a471367b46b28f35fe0af535310e65dfe2f62f930cda3aeda3b0"
+  },
+  {
+    "file": "player_df.csv",
+    "bytes": 574036363,
+    "rows": 7650825,
+    "sha256": "91276e17044093c7a39e553b81a9dbc9ac6a3f1518d6ed0043120a49e648c757"
+  }
+]

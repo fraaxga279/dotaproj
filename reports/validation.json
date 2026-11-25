@@ -1,0 +1,33 @@
+{
+  "python": "3.12.15",
+  "notebooks": {
+    "02_features.ipynb": {
+      "code_cells": 17,
+      "error_outputs": 0,
+      "png_figures": 2
+    },
+    "01_baseline.ipynb": {
+      "code_cells": 23,
+      "error_outputs": 0,
+      "png_figures": 7
+    }
+  },
+  "data_files_verified": 6,
+  "prediction_rows": 59748,
+  "fresh_process_prediction_match": true,
+  "validation_gini": 0.4173577692352666,
+  "baseline_gini": 0.31100775821380666,
+  "gpu_experiment": "skipped locally, no rapids",
+  "presentation_changes": "explanatory print statements moved to markdown cells; saved numerical results retained; presentation-only edits syntax-checked",
+  "pre_push_review": {
+    "date": "2026-11-25",
+    "syntax_and_notebook_schema": "passed",
+    "raw_data_hashes": "6 matched",
+    "baseline_and_advanced_test_rows": 59748,
+    "fresh_process_predictions": "matched to 1e-14",
+    "csv_sqlite_registry": "matched",
+    "git_candidates": 37,
+    "git_candidates_bytes": 3971668,
+    "training": "successful saved runs retained; no numerical training changes in this review"
+  }
+}

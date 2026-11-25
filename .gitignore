@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+data/raw/*.csv
+artifacts/**/*.pkl
+artifacts/**/submission*.csv
+artifacts/**/predictions*.csv
+reports/*_execution.log
+.env
+.env.*
+!.env.example

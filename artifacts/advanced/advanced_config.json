@@ -1,0 +1,14 @@
+{
+  "groups": [
+    "trend",
+    "text",
+    "adv_windows"
+  ],
+  "max_groups": 3,
+  "C": 0.1,
+  "solver": "liblinear",
+  "max_iter": 500,
+  "validation_gini": 0.4173577692352666,
+  "baseline_gini": 0.31100775821380666,
+  "gpu_status": "\u043d\u0435 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d"
+}
